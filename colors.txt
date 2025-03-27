@@ -1,3 +1,9 @@
-- crema: d4bda1
-- azul: 0b1b20
-- naranja: d8602b
+- crema: #d4bda1
+- azul: #0b1b20
+- naranja: #d8602b
+
+RGB
+
+- crema: R213, G189, B161
+- azul: R33, G40, B57
+- naranja: R217, G97, B42
